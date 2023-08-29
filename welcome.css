@@ -115,3 +115,24 @@ button:active{
         box-shadow: inset 0px 0px 0px 30px rgb(10, 38, 71)
     }
 }
+
+.go-back {
+    font-size: .8em;
+    text-align: center;
+    margin: 15px 0;
+  }
+  
+  .go-back p {
+    color: rgb(10, 38, 71);
+  }
+  
+  .go-back p a {
+    color: rgb(10, 38, 71);
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.5s;
+  }
+  
+  .go-back p a:hover {
+    text-decoration: underline;
+  }
